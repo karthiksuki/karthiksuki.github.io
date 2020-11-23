@@ -771,7 +771,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/beach.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/The\ Great\ Himalaya.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -783,7 +783,7 @@ input[type='checkbox'] {
 
 .header .text-container {
 	margin-bottom: 3rem;
-	color: 	pink;
+	color: 	white;
 }
 
 .header h1 {
